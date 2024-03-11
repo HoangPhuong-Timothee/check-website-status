@@ -4,7 +4,7 @@ step 1: open project and open terminal
 
 step 2: run command "go run . --domain [website-address-want-to-check]".
 
-Ex: If you want to check is Facebook website down or not, run command: <s>"go run . --domain facebook.com"</s>
+Ex: If you want to check is Facebook website down or not, run command: <strong><i>"go run . --domain facebook.com"</i></strong>
 
 
 *Expectation output(if it's still up): 
