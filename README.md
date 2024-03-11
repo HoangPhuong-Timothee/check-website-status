@@ -1,10 +1,10 @@
-This module is used to check entered website address wheather is down or not. To check, please do the following:
+This module is used to check entered website address wheather it is down or not. To check, please do the following:
 
 step 1: open project and open terminal
 
 step 2: run command "go run . --domain [website-address-want-to-check]".
 
-Ex: If you want to check Facebook website is down or not, run command "go run . --domain facebook.com"
+Ex: If you want to check is Facebook website down or not, run command: <s>"go run . --domain facebook.com"</s>
 
 
 *Expectation output(if it's still up): 
